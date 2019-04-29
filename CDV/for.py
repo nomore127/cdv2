@@ -23,4 +23,7 @@ print()
 #wypisz elementy z listy do momentu wartości 'end','q','quit'
 
 lista = ['Audi','BMW','Porshe','Mercedes','Lamborghini','quit']
-
+for samochody in lista:
+    if lista == 'quit'
+        print(' ')
+    print lista
